@@ -116,6 +116,11 @@ minus 25% (prediction)
 
 -----
 
+![bkg.png](https://bitbucket.org/repo/yp89q4d/images/1798069237-bkg.png)
+
+
+-----
+
 > Tags: Mao Zedong, Mao Tse-tung, Chairman, Communist Party of China, 
 
 > Great Leap Forward [Future], Great Proletarian Cultural Revolution
