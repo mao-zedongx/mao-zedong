@@ -2,6 +2,12 @@
 
 -----
 
+
+[mao-zedong.net](http://mao-zedong.net)
+
+
+-----
+
 ![bitcoin.png](https://bitbucket.org/repo/yp89q4d/images/2306709604-bitcoin.png)
 
 
@@ -31,7 +37,7 @@ POS (operating from block 1)
 
 -----
 
-Coin: Mao
+Coin: Mao Zedong
 
 Ticker: MAO
 
@@ -46,7 +52,7 @@ Annual interest rate: 5%
 
 Staking minimum age: 12 hours
 
-Staking Maximum Age: 12 days
+Staking maximum age: 12 days
 
 -----
 
@@ -55,6 +61,26 @@ Staking Maximum Age: 12 days
 From 1 -14,000 height
 
 888 coins each block
+
+14,000 x 888
+
+= 12,432,000
+
+*Adjustment for PoS mined blocks*
+
+minus 25% (prediction)
+
+= - 3,108,000
+
+**Prediction of total coins in 12 weeks (full PoS):**
+
+= 12,432,000 - 3,108,000
+
+= 9,324,000
+
+*+ 1,000,000 (premine)*
+
+**= 10,324,000**
 
 -----
 
@@ -74,8 +100,7 @@ rpcport=9669
 
 port=9670
 
-
-----
+-----
 
 
 
