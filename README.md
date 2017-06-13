@@ -43,6 +43,24 @@ Ticker: MAO
 
 -----
 
+**Block Parameters**
+
+
+Block Spacing: 480 seconds
+
+Difficulty re-targeting: Each block
+
+-----
+
+**Ports**
+
+
+rpcport=9669
+
+port=9670
+
+-----
+
 **Rewards**
 
 
@@ -72,6 +90,8 @@ minus 25% (prediction)
 
 = - 3,108,000
 
+-----
+
 **Prediction of total coins in 12 weeks (full PoS):**
 
 = 12,432,000 - 3,108,000
@@ -84,25 +104,13 @@ minus 25% (prediction)
 
 -----
 
-**Block Parameters**
-
-
-Block Spacing: 480 seconds
-
-Difficulty re-targeting: Each block
+![splash.png](https://bitbucket.org/repo/yp89q4d/images/2181426147-splash.png)
 
 -----
 
-**Ports**
-
-
-rpcport=9669
-
-port=9670
+![splash_testnet.png](https://bitbucket.org/repo/yp89q4d/images/4176752740-splash_testnet.png)
 
 -----
-
-
 
 [![N|Solid](http://www.kabulmagazine.com/wp-content/uploads/2016/12/mao-poster-revolution1-600x414.jpg)](https://nodesource.com/products/nsolid)
 
