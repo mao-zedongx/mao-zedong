@@ -3,7 +3,13 @@
 -----
 
 
-[mao-zedong.net](http://mao-zedong.net)
+> [mao-zedong.net](http://mao-zedong.net)
+
+
+> [Windows-qt](https://mega.nz/#!ctB0XZaY!yORVYVzA7SPfSbGEvd7cpz79WWqVwDWQxfUvwYC9LUA)
+
+
+
 
 
 -----
