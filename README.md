@@ -3,10 +3,10 @@
 -----
 
 
-> [mao-zedong.net](http://mao-zedong.net)
+- [mao-zedong.net](http://mao-zedong.net)
 
 
-> [Windows-qt](https://mega.nz/#!ctB0XZaY!yORVYVzA7SPfSbGEvd7cpz79WWqVwDWQxfUvwYC9LUA)
+- [Windows-qt](https://mega.nz/#!ctB0XZaY!yORVYVzA7SPfSbGEvd7cpz79WWqVwDWQxfUvwYC9LUA)
 
 
 
@@ -19,11 +19,11 @@
 
 
 
-**"The Chairman."**
+### "The Chairman." ###
 
 ----
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_the_Chinese_Communist_Party.svg/800px-Flag_of_the_Chinese_Communist_Party.svg.png)](https://nodesource.com/products/nsolid)
+![splash.png](https://bitbucket.org/repo/yp89q4d/images/2181426147-splash.png)
 
 
 -----
@@ -108,9 +108,7 @@ minus 25% (prediction)
 
 **= 10,324,000**
 
------
 
-![splash.png](https://bitbucket.org/repo/yp89q4d/images/2181426147-splash.png)
 
 -----
 
