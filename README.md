@@ -14,6 +14,13 @@
 
 -----
 
+### Road map ###
+
+1, yobit.net via addcoin
+2, World domination
+
+-----
+
 ![bitcoin.png](https://bitbucket.org/repo/yp89q4d/images/2306709604-bitcoin.png)
 
 
