@@ -12,6 +12,19 @@
 - [Blockexplorer](http://explorer.mao-zedong.net:3001)
 
 
+-----
+
+### Compile Linux Daemon ###
+
+Deps used for QT4 compile:
+
+sudo apt-get install git build-essential libssl-dev libboost-all-dev libqrencode-dev libdb++-dev libminiupnpc-dev qt-sdk -y
+
+make -f makefile.unix
+
+alternatively
+
+make -f makefile.unix USE_UPNP=1
 
 
 
