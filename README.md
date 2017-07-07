@@ -27,6 +27,21 @@ alternatively
 make -f makefile.unix USE_UPNP=1
 
 
+-----
+
+### Yobit on a "go slow" ###
+
+MAO was submitted to the 4 -7 business days, 0.10 BTC Premium [sic] Addcoin on the 16th June, and has been resubmitted several times after that. About five or 6 support tickts have been submitted. None of these has had a response. My 0.10 BTC Yobi Code has also not been used.
+
+Yobit can take more than a month to get around to adding a coin, so more like 21 - 30 business days.
+
+MAO is still difficult to mine, and when I try, when the difficulty is below 100, it soon shoots up, leaving me stranded and unable to match the GHz being thrown at it.
+
+So somebody wants to collect it
+
+The hybrid period finishes at 14000 blocks, and there will probaby be about 5.5 - 6 million total, then just 5% interest on staking wallets.
+
+If you would like to hurry Yobit up, you can contact <a href="https://yobit.net/en/support/" target="_blank">support</a> or better, put a <a href="https://yobit.net/en/addcoin/" target="_blank">"free addcoin"</a> request in, and it might just make a difference.
 
 -----
 
@@ -123,7 +138,7 @@ minus 25% (prediction)
 
 -----
 
-**Prediction of total coins in 12 weeks (full PoS):**
+**Old Prediction of total coins in 12 weeks (full PoS):**
 
 = 12,432,000 - 3,108,000
 
@@ -132,6 +147,19 @@ minus 25% (prediction)
 *+ 1,000,000 (premine)*
 
 **= 10,324,000**
+
+
+A new prediction is below:
+
+
+
+**Revised Prediction of total coins in 12 weeks (full PoS):**
+
+We are currently at 7,000 plus blocks, so staaked blocks have been quite prolific.
+
+New prediction
+
+**= 5,500,000 - 6,000,000**
 
 
 
