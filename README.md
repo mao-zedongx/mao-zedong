@@ -138,20 +138,6 @@ minus 25% (prediction)
 
 -----
 
-**Old Prediction of total coins in 12 weeks (full PoS):**
-
-= 12,432,000 - 3,108,000
-
-= 9,324,000
-
-*+ 1,000,000 (premine)*
-
-**= 10,324,000**
-
-
-A new prediction is below:
-
-
 
 **Revised Prediction of total coins in 12 weeks (full PoS):**
 
