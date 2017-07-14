@@ -32,9 +32,11 @@ make -f makefile.unix USE_UPNP=1
 
 -----
 
-### Yobit adds MAO" ###
+### Yobit adds MAO ###
 
-Just under a month since submission, and [Yobit Exchange](https://yobit.net/en/trade/MAO/BTC) has finally added MAO. Only 4,000 hybrid blocks are left (13 July), the coin count wll be under 6,000,000 (6 million)
+Just under a month since submission, and [Yobit Exchange](https://yobit.net/en/trade/MAO/BTC) has finally added MAO. Only 4,000 hybrid blocks are left (13 July), the coin count wll be under 6,000,000 (6 million).
+
+
 -----
 
 ### Road map ###
