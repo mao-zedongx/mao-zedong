@@ -12,6 +12,9 @@
 - [Blockexplorer](http://explorer.mao-zedong.net:3001)
 
 
+- [Yobit Exchange](https://yobit.net/en/trade/MAO/BTC)
+
+
 -----
 
 ### Compile Linux Daemon ###
@@ -29,20 +32,9 @@ make -f makefile.unix USE_UPNP=1
 
 -----
 
-### Yobit on a "go slow" ###
+### Yobit adds MAO" ###
 
-MAO was submitted to the 4 -7 business days, 0.10 BTC Premium [sic] Addcoin on the 16th June, and has been resubmitted several times after that. About five or 6 support tickts have been submitted. None of these has had a response. My 0.10 BTC Yobi Code has also not been used.
-
-Yobit can take more than a month to get around to adding a coin, so more like 21 - 30 business days.
-
-MAO is still difficult to mine, and when I try, when the difficulty is below 100, it soon shoots up, leaving me stranded and unable to match the GHz being thrown at it.
-
-So somebody wants to collect it
-
-The hybrid period finishes at 14000 blocks, and there will probaby be about 5.5 - 6 million total, then just 5% interest on staking wallets.
-
-If you would like to hurry Yobit up, you can contact <a href="https://yobit.net/en/support/" target="_blank">support</a> or better, put a <a href="https://yobit.net/en/addcoin/" target="_blank">"free addcoin"</a> request in, and it might just make a difference.
-
+Just under a month since submission, and [Yobit Exchange](https://yobit.net/en/trade/MAO/BTC) has finally added MAO. Only 4,000 hybrid blocks are left (13 July), the coin count wll be under 6,000,000 (6 million)
 -----
 
 ### Road map ###
