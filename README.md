@@ -1,7 +1,20 @@
-### Mao Zedong [Tse-tung], 毛泽东 ###
+Mao Zedong [Tse-tung], 毛泽东
+==========================
+
+**MAO**
 
 -----
 
+News
+====
+
+Mao has a new, extremely capable developer who is the reason Mao has such a high market cap. It is wise to use his repository from now on. As all updates will occur there. The url is almost the same as this url, but misses an "x."
+
+[github.com/mao-zedong/mao-zedong/](https://github.com/mao-zedong/mao-zedong/)
+
+This page will remain here, but consider it it an **Archive**
+
+-----
 
 - [mao-zedong.net](http://mao-zedong.net)
 
